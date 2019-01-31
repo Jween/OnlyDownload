@@ -5,3 +5,10 @@ OnlyDownload
 + 多线程，多区块，多断电续传
 + 增量下载，文件增量增长
 + 可配置
+
+
+License
+-------
+
+Schizo 基于 Apache-2.0 协议开源, 协议详情参见 [LICENSE](LICENSE.md)
+See the [LICENSE](LICENSE.md) file for license rights and limitations (APACHE-2.0).
