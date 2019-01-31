@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 下载文件存放的相对目录(相对于 Download/ 文件夹) -->
+    <string name="download_sub_folder_path" translatable="false">AppCenter/Apk</string>
+    <!-- 同一个文件多线程下载允许的最大线程数 -->
+    <integer name="download_max_thread_count" translatable="false">3</integer>
+    <!-- 多线程下载, 每个多线程区间的文件大小, 必须是 8 的倍数, 默认是 2MB, 2 * 1024 * 1024 = 2097152-->
+    <integer name="download_max_block_size">2097152</integer>
+
+</resources>
